@@ -28,7 +28,5 @@ Transformation data: Mengubah atau memodifikasi data sehingga siap digunakan unt
 # Data visualization test
 Mendapatkan insight dari hasil visualisasi yang telah dibuat
 
-# Basic stats method test
-Mendapatkan insight dari model dan evaluasi model yang sudah dibuat dan diuji
 
 
