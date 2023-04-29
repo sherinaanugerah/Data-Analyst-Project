@@ -28,5 +28,7 @@ Transformation data: Mengubah atau memodifikasi data sehingga siap digunakan unt
 # Data visualization test
 Mendapatkan insight dari hasil visualisasi yang telah dibuat
 
+<img width="421" alt="Screenshot 2023-04-28 174613" src="https://user-images.githubusercontent.com/129056497/235272450-bd5b9175-423f-4f82-8bae-e25103d1836c.png">
+
 
 
